@@ -215,7 +215,7 @@ python main.py
 
 **Company:** Alfido Tech
 
-**Internship Domain:** Machine Learning
+**Internship Domain:** Artificial Intelligence & Machine Learning
 
 **Task:** Task 1 – Supervised Classification Model
 
@@ -223,11 +223,11 @@ python main.py
 
 ## 🙋 Author
 
-**Bhanu**
+**BHAVANA**
 
-Computer Science Student
+Computer Science Student at GAYATRI VIDYA PARISHAD COLLEGE OF ENGINEERING
 
-Machine Learning Intern at Alfido Tech
+Artificial Intelligence & Machine Learning Intern at Alfido Tech
 
 ---
 
