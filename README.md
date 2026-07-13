@@ -223,7 +223,7 @@ python main.py
 
 ## 🙋 Author
 
-**BHAVANA**
+**BHAVANA PALLA**
 
 Computer Science Student at GAYATRI VIDYA PARISHAD COLLEGE OF ENGINEERING
 
